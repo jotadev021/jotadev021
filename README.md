@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">Olá👋</h1>
+<h1 align="center">Bem vindo👋</h1>
 
 ###
 
@@ -59,6 +59,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotadev021/jotadev021/output/pacman-contribution-graph-dark.svg">
