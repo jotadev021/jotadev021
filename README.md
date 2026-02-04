@@ -1,8 +1,10 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/a5/7e/bf/a57ebf5a082595205a53213f496a42c1.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/88/e7/81/88e781f55d1889530fdeaff5523d171b.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="www.linkedin.com/in/juan-pablo-4b456830b" target="_blank">
@@ -46,6 +48,22 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jotadev021&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotadev021/jotadev021/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jotadev021/jotadev021/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jotadev021/jotadev021/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
