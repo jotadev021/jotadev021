@@ -1,15 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/88/e7/81/88e781f55d1889530fdeaff5523d171b.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="www.linkedin.com/in/juan-pablo-4b456830b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img height="150" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg"  />
 </div>
 
 ###
@@ -18,11 +8,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">Estudante de Desenvolvimento de Sistemas, com foco em boas práticas de programação, organização de código e construção de soluções escaláveis. Possuo base em lógica de programação, orientação a objetos e estruturação de aplicações.<br><br>Atuo com Java, C#, SQL e Python, utilizando Git/GitHub para versionamento e IDEs como IntelliJ IDEA, Eclipse e Visual Studio Code.<br><br>Interesse direcionado a back-end, análise de dados e automação, com objetivo de atuar como estagiário ou desenvolvedor júnior, contribuindo com software de qualidade e evolução contínua.</p>
+<p align="left">Estudante de Desenvolvimento de Sistemas, com formação orientada a fundamentos sólidos de engenharia de software, boas práticas de codificação e construção de aplicações escaláveis e bem estruturadas. Possuo domínio de lógica de programação, programação orientada a objetos e organização de projetos com foco em legibilidade, manutenção e eficiência.<br><br>Atuo com Java, C#, Python e SQL no desenvolvimento de aplicações e scripts, aplicando controle de versão com Git/GitHub e utilizando ambientes como IntelliJ IDEA, Eclipse e Visual Studio Code no fluxo diário de desenvolvimento.<br><br>Tenho interesse direcionado ao ecossistema back-end, análise de dados e automação de processos, buscando constantemente evoluir tecnicamente e contribuir em projetos com foco em qualidade, performance e crescimento sustentável como estagiário ou desenvolvedor júnior.</p>
 
 ###
 
@@ -46,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
@@ -56,28 +48,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jotadev021&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotadev021/jotadev021/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jotadev021/jotadev021/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jotadev021/jotadev021/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
